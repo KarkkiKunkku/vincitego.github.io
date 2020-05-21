@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: please add, S3 atk/atk stone (+4000/+37.0%)
 title: ''
 labels: ''
 assignees: ''
