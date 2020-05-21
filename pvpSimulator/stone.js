@@ -5,6 +5,7 @@ var stones = {
   "S3 Attack, Attack, Precision": {attack: 1550, attackPercent: 0.24, precision: 0.24},
   "S3 Attack, Attack, Skill": {attack: 1550, attackPercent: 0.24, skillDamage: 0.8},
   "S3 Attack, Block": {attackPercent: 0.28, block: 0.28},
+  "S3 Attack, Attack": {attack: 4000, attackPercent: 0.37},
   "S3 Crit, Armor Break": {crit: 0.23, armorBreak: 0.5},
   "S3 Crit, Crit, Attack": {attackPercent: 0.1, crit: 0.23, critDamage: 0.55},
   "S3 Crit, Precision": {precision: 0.23, crit: 0.23},
